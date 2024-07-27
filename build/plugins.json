@@ -18,7 +18,7 @@
         "version": 1,
         "internalName": "AkwamProvider",
         "description": "",
-        "url": "https://raw.githubusercontent.com/Dev-110/ArabicRepo/builds/AkwamProvider.cs3",
+        "url": "https://github.com/DEV-110/ArabicRepo/raw/main/AkwamProvider/build/AkwamProvider.cs3",
         "name": "AkwamProvider"
     },
     {
@@ -39,7 +39,7 @@
         "version": 2,
         "internalName": "EgyDeadProvider",
         "description": "Some LinkBox links are broken idk why",
-        "url": "https://raw.githubusercontent.com/Dev-110/ArabicRepo/builds/EgyDeadProvider.cs3",
+        "url": "https://github.com/DEV-110/ArabicRepo/raw/main/EgyDeadProvider/build/EgyDeadProvider.cs3",
         "name": "EgyDeadProvider"
     }
 ]
